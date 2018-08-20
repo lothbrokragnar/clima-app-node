@@ -4,6 +4,6 @@
 node 
 
 Ejemplo:
-app -d "Santiago"
+node app -d "Santiago"
 
-app -d "Valdivia"
+node app -d "Valdivia"
